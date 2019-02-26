@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Libros" size="100.000000 100.000000" />
+    <ImageTarget name="Audio" size="100.000000 98.437500" />
+    <ImageTarget name="Triste" size="100.000000 75.814415" />
+    <ImageTarget name="Psicologia" size="100.000000 91.976051" />
+    <ImageTarget name="Video6" size="100.000000 91.489365" />
+    <ImageTarget name="Video5" size="100.000000 93.382355" />
+    <ImageTarget name="Video4" size="100.000000 96.183205" />
+    <ImageTarget name="Video3" size="100.000000 91.176468" />
+    <ImageTarget name="Video2" size="100.000000 95.522385" />
+    <ImageTarget name="Video1" size="100.000000 94.696968" />
+    <ImageTarget name="RealidadAumentada" size="100.000000 76.969696" />
+    <ImageTarget name="Modelo3D" size="100.000000 41.793892" />
+    <ImageTarget name="LSA2" size="100.000000 74.404762" />
+    <ImageTarget name="LSA" size="100.000000 79.878052" />
+    <ImageTarget name="Senas" size="100.000000 78.346458" />
+    <ImageTarget name="video" size="100.000000 100.000000" />
+    <ImageTarget name="Cerebro" size="100.000000 100.000000" />
+    <ImageTarget name="Lenguaje" size="100.000000 100.000000" />
+    <ImageTarget name="Dali" size="100.000000 68.652344" />
+    <ImageTarget name="ASIMOV" size="291.000000 201.400543" />
+  </Tracking>
+</QCARConfig>
